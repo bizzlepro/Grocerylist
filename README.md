@@ -1,2 +1,4 @@
 # Grocerylist
-a simple grocery to do list webapp 
+a simple grocery checklist webapp
+
+Add, modify, delete and check items
